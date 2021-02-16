@@ -11,7 +11,11 @@ public class Test {
 public static void main(String[] args) {
 	System.err.println("asdsa");
 	System.err.println("创建分支");
+
 	System.err.println("主线添加");
 	
+
+	System.err.println("分支添加");
+
 }
 }
